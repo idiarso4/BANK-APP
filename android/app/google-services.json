@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "71034122635",
+    "project_id": "tabungan-681ff",
+    "storage_bucket": "tabungan-681ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71034122635:android:9748fbf57465d3a6edbf8e",
+        "android_client_info": {
+          "package_name": "com.tabungan.bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71034122635-b98q2qv31dobqg7r231liokt15mpki0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Cg9dA0CG00YrSsiG-0vIZRdfU16oEo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71034122635-b98q2qv31dobqg7r231liokt15mpki0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
